@@ -3,7 +3,7 @@ namespace Grobmeier\PHPUnit\Database;
 
 class App
 {
-    private $config = ["mysql:host=127.0.0.1:3306;dbname=phpunittest", "ubuntu", ""];
+    private $config = ["mysql:host=127.0.0.1:3306;dbname=phpunittest", "root", "mayolo777"];
 
     /**
      * App constructor.
